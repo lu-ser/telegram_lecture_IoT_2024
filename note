@@ -1,0 +1,2 @@
+INSTALLARE 
+pip install "flask[async]"
